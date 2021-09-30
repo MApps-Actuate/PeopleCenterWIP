@@ -1,0 +1,25 @@
+Value,Column,In group,Remainder,Index,ZScore,Significant
+2,[Times Promoted At Company],77887,267416,143.74,100.17,1
+Stanford,[University],188691,879582,105.87,79.54,1
+Senior Director,[Title],29895,101103,145.93,55.05,1
+Bachelors,[Degree],20024,83898,117.79,20.77,1
+4,[Years With Company],5569,23971,114.66,8.92,1
+San Francisco,[Employee County],47969,231546,102.24,5.02,1
+Marketing,[Department],60129,295081,100.57,1.5,0
+University of Denver,[University],15465,75498,101.09,1.28,0
+2,[Times Promoted At Company],11869,58099,100.82,0.84,0
+10,[Years With Company],40917,201188,100.37,0.77,0
+Director,[Title],14858,72915,100.57,0.65,0
+Yale,[University],29943,147284,100.34,0.57,0
+Masters,[Degree],15279,75117,100.39,0.45,0
+Facilities,[Department],46403,230668,99.28,-1.62,0
+1,[Times Promoted At Company],48886,243179,99.21,-1.83,0
+Liberal Arts,[Degree],61588,306259,99.25,-2.06,1
+0.5,[Years With Company],18705,93908,98.3,-2.26,1
+Alameda,[Employee County],78332,393470,98.25,-5.79,1
+Harvard,[University],94162,472245,98.41,-6.19,1
+0,[Times Promoted At Company],544,3835,70.01,-8.81,1
+Graduate,[Degree],21,404,25.65,-9.93,1
+San Mateo,[Employee County],69834,430633,80.03,-73.73,1
+Brown,[University],13931,120418,57.1,-79.54,1
+Finance,[Department],18872,172608,53.96,-106.23,1

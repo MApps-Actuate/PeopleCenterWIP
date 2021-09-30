@@ -1,0 +1,10 @@
+<html xmlns="http://www.w3.org/1999/xhtml">    
+  <head>      
+    <title>PeopleCenterWIP</title>    
+	<script type="text/javascript">
+		regex = /apps\/(.*?)\//gm;
+		loc = regex.exec(window.location.href)[1];
+		window.location.href='/iportal/dashboard?conf=/Applications/' + loc + '/Dashboards/human-resources.dashboard';
+    </script>
+  </head>    
+</html>
